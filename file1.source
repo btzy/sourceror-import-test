@@ -1,0 +1,3 @@
+function get_val() {
+    return 2;
+}
